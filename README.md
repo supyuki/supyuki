@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
 <h1 class="welcome-message">Welcome to My GitHub Profile</h1>
-</script>
-
 <h2>Status</h2>
 <ul>
   <li>🌟 Currently working on exciting projects!</li>
